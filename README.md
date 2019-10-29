@@ -5,4 +5,4 @@ Every challenge has its own readme file with description of a problem, and some 
 ---
 
 <!-- UL -->
-* [Find smallest integer](https://github.com/Duk4/Algorithms/tree/master/find_smallest_int)
+* [Find smallest integer](https://github.com/Duk4/Simple-Haskell-Programs/find_smallest_int)
